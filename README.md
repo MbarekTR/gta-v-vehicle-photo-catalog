@@ -10,7 +10,7 @@ This project includes a modern HTML catalog with search, category filtering, col
 
 # 🚀 Installation
 
-1. Download the latest release: [**v1.0 (.7z, 172 MB)**](https://github.com/MbarekTR/gta-v-vehicle-photo-catalog/releases/download/v1.0/gta-v-vehicle-photo-catalog-v1.0.7z)
+1. Download the latest release: [**v1.0 (.7z, 165 MB)**](https://github.com/MbarekTR/gta-v-vehicle-photo-catalog/releases/download/v1.0/gta-v-vehicle-photo-catalog-v1.1.7z)
 2. Extract the archive (requires [7-Zip](https://www.7-zip.org/) or similar)
 3. Open **index.html** in your browser
 
