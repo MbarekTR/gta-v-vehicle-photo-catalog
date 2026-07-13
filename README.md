@@ -82,7 +82,7 @@ This repository is an unofficial fan-made project.
 
 Grand Theft Auto V, its vehicles, names, trademarks, and other related assets are the property of Rockstar Games and/or Take-Two Interactive.
 
-The MIT License included with this repository applies only to the original work contained in this repository (such as the catalog, organization, documentation, and any original code) and does not grant any rights to Rockstar Games' intellectual property.
+The MIT License applies only to the original source code, documentation, and other original content created for this project. It does not apply to Rockstar Games' intellectual property or copyrighted game assets.
 
 ---
 
