@@ -76,6 +76,16 @@ All images use the original **GTA V vehicle spawn names** as filenames, allowing
 
 ---
 
+# ⚖️ Disclaimer
+
+This repository is an unofficial fan-made project.
+
+Grand Theft Auto V, its vehicles, names, trademarks, and other related assets are the property of Rockstar Games and/or Take-Two Interactive.
+
+The MIT License included with this repository applies only to the original work contained in this repository (such as the catalog, organization, documentation, and any original code) and does not grant any rights to Rockstar Games' intellectual property.
+
+---
+
 # ❤️ Credits
 
 Created by **MbarekTR**
