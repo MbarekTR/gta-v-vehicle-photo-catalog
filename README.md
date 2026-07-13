@@ -35,12 +35,12 @@ See all releases: [Releases page](https://github.com/MbarekTR/gta-v-vehicle-phot
   * White
 * 📐 7 image resolutions
   * Original
-  * 512×512
-  * 256×256
-  * 128×128
-  * 64×64
-  * 32×32
-  * 24×24
+  * 512x512
+  * 256x256
+  * 128x128
+  * 64x64
+  * 32x32
+  * 24x24
 * 🔍 Vehicle search
 * 📂 Category filtering
 * 🌐 Interactive HTML catalog
@@ -88,10 +88,10 @@ All images use the original **GTA V vehicle spawn names** as filenames, allowing
     "category": "boats",
     "name": "avisa",
     "images": [
-        "boats/avisa/avisa_black.png",
-        "boats/avisa/avisa_blue.png",
-        "boats/avisa/avisa_red.png",
-        "boats/avisa/avisa_white.png"
+        "boats/avisa/avisa_black.webp",
+        "boats/avisa/avisa_blue.webp",
+        "boats/avisa/avisa_red.webp",
+        "boats/avisa/avisa_white.webp"
     ]
 }
 ```
